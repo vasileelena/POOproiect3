@@ -1,17 +1,17 @@
 # POOproiect3
 ## Cerinte de baza:
 ### Cerințe comune tuturor temelor:
-1.utilizarea sabloanelor
+- utilizarea sabloanelor
 
-2.utilizarea STL
+- utilizarea STL
 
-3.utilizarea variabilelor, funcțiilor statice, constantelor și a unei functii const
+- utilizarea variabilelor, funcțiilor statice, constantelor și a unei functii const
 
-4.utilizarea conceptelor de RTTI raportat la template-uri
+- utilizarea conceptelor de RTTI raportat la template-uri
 
-5.tratarea excepțiilor
+- tratarea excepțiilor
 
-6.citirea informațiilor complete a n obiecte, memorarea și afișarea acestora
+- citirea informațiilor complete a n obiecte, memorarea și afișarea acestora
 ### Cerințe generale aplicate fiecărei teme din acest fișier:
 - să se identifice și să se implementeze ierarhia de clase;
 
