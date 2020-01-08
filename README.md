@@ -17,7 +17,7 @@
 
 - clasele să conțină constructori, destructori, =, funcție prietena de citire a datelor;
 
--clasa de baza sa conțină funcție virtuala de afisare, rescrisa în clasele derivate, iar operatorul de citire să fie implementat ca funcție prieten (în clasele derivate să se facă referire la implementarea acestuia în clasa de baza).
+- clasa de baza sa conțină funcție virtuala de afisare, rescrisa în clasele derivate, iar operatorul de citire să fie implementat ca funcție prieten (în clasele derivate să se facă referire la implementarea acestuia în clasa de baza).
 
 ## Tema 5:
 În luna mai se organizeazătârgul mașinilor sport, astfel ca pasionatii se pot delecta cu modele din clasa COUPE,HOT-HATCH(modele hatckback de clasa mica și compacta cu motoare performante ce au la bază modele obișnuite), CABRIO(modele de capotabile cu
